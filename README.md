@@ -7,7 +7,7 @@ A fun and simple dice game built using HTML, CSS, and JavaScript. Just refresh t
 
 ## 🚀 Demo
 
-![Dice Game Screenshot]("C:\Users\tejas\Pictures\Screenshots\Screenshot (8).png")
+![Dice Game Screenshot]("images/Screenshot (8).png")
 
 > Refresh the browser to roll the dice and declare a winner!
 
